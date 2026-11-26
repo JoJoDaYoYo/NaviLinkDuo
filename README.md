@@ -41,8 +41,9 @@ The board breaks out two serial ports. The first is the hardware-based UART func
 *   The NaviLink Duo board is NOT required for operation. However, when it IS attached, the GNSS module should appear, as well as any externally connected devices (like encoders) attached to the Qwiic connectors.
 *   DTMF tones will sound when a device initially connects, and again when it disconnects.
 
-## Software Features - Cardputer Zero Version(s) 
-*   Equivalent versions to the two ADV demos above are planned once the Zero is released.
+## Software Features - Cardputer Zero Version (GNSS/Encoder Pi Sample Development Code)
+*   Equivalent functionality to the Cardputer ADV version above
+*   Note: The Cardputer Zero specifically warns against hot-plugging/removal of expansion bus boards while powered on!
 
 ## License & Credits
 
