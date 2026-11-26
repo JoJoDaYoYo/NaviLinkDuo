@@ -1,3 +1,4 @@
+<img width="2746" height="3470" alt="NavilinkDuoonZero" src="https://github.com/user-attachments/assets/49a5a4ac-1d25-43e3-8a2a-a4f486f21e50" />
 # NaviLink Duo: Cardputer GNSS + Serial Breakout Board, with demo code for an I2C decoder for GNSS/GPS Module + Adafruit Quad Encoder Board
 
 The **NaviLink Duo** is an open-source hardware expansion board and accompanying software demo designed for the M5Stack Cardputer. The board integrates a GNSS/GPS module, has Qwiic ports for external quad-rotary encoder support, and has dual serial breakouts, making it a highly capable tool for amateur radio operators and hardware hackers. 
@@ -54,6 +55,7 @@ The board breaks out two serial ports. The first is the hardware-based UART func
 *This project is open-source. You are free to use, modify, and distribute this software and hardware design in your own projects. Please retain the author attribution in derivative works.*
 
 <img width="576" height="768" alt="IMG_1179" src="https://github.com/user-attachments/assets/ce3254c2-6017-48be-bb55-012b9679b76e" />
+<img width="576" height="768" alt="NavilinkDuoonZero" src="https://github.com/user-attachments/assets/8349df2d-1a88-494f-a960-97f50e974b97" />
 <img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/3cff0b69-59aa-4186-a3b4-589c6dffaad5" />
 <img width="1586" height="346" alt="image" src="https://github.com/user-attachments/assets/7884c335-3934-4214-8883-067479a01315" />
 <img width="1186" height="597" alt="image" src="https://github.com/user-attachments/assets/107d0ee3-682f-455e-824b-1bf3b1757b56" />
